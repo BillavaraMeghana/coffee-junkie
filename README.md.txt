@@ -12,4 +12,4 @@
 6. lists
 7. internal and external page navigations
 8. input tags
-  To see the live demo go to: [Live Demo] https://billavarameghana.github.io/coffee-junkie/
+  To see the live demo go to: [Live Demo] (https://billavarameghana.github.io/coffee-junkie/){:target=" blank"}
